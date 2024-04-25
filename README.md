@@ -21,7 +21,7 @@ I started my 'tech' journey as a Computer Science student where I learned AI and
 As a design outsider, being technical actually helped me be a better designer and team mate. <wbr> I could be technical with devs and help them with frontend code from time to time. (Usually in form of providing code snippets)
 
 
-#### My design portfolio lives at: 
+#### My design portfolio lives at: www.adilrehman.com
 
 
 ##### Design tools of trade:
