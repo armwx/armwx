@@ -17,6 +17,16 @@
   <img src="https://visitcount.itsvg.in/api?id=armwx&label=Views&color=12&icon=5&pretty=false" alt="views" height="24" />
 </p>
 
+<!-- Badges -->
+<p align="center">
+  <img align="center" width="32" src="https://github.com/armwx/armwx/assets/32905298/5ae17ac2-de9f-4bd1-a3c6-26d85e5d2e58" alt="Figma and Figma"/>
+  <img align="center" width="32" src="https://github.com/armwx/armwx/assets/32905298/f992a4db-39ca-4527-a85a-4fcfef03b29d" alt="Framer"/>
+  <img align="center" width="32" src="https://github.com/armwx/armwx/assets/32905298/6dc7ad20-c82d-41ba-a1de-e0df81515e41" alt="Pen n Paper"/>
+  <img align="center" width="32" src="https://github.com/armwx/armwx/assets/32905298/7a7b8bda-860b-4f4a-a72e-0f819dde3295" alt="Notion"/>
+  <img align="center" width="32" src="https://github.com/armwx/armwx/assets/32905298/d13d2258-cd23-468f-8fae-d988e8b2255f" alt="OpenAI + more"/>
+  <img align="center" width="32" src="https://github.com/armwx/armwx/assets/32905298/1d9a7003-fc8b-47ca-931c-ccb43cd124a7" alt="Code Blocks"/>
+</p>
+
 #### Background
 I started my 'tech' journey as a Computer Science student where I learned AI and Development. I accidentally stumbled upon 'UI/UX' during a hackathon. I like code but this felt different, so I went heads down into design.
 
@@ -26,12 +36,7 @@ As a design outsider, being technical helped me be a better designer and team ma
 ```
 If you're a developer who needs design help, feel free to drop a message.
 ```
-<!-- Badges -->
-<p align="center">
-  ![image](https://github.com/armwx/armwx/assets/32905298/23283b89-373d-45c1-bfa6-d7e701d76b45)
 
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white" />
-</p>
 
 
 > “When you’re a carpenter making a beautiful chest of drawers, you’re not going to use a piece of plywood on the back, even though it faces the wall and nobody will ever see it. You’ll know it’s there, so you’re going to use a beautiful piece of wood on the back. For you to sleep well at night, the aesthetic, the quality, has to be carried all the way through.”
