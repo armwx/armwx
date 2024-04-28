@@ -17,7 +17,27 @@
   <img src="https://visitcount.itsvg.in/api?id=armwx&label=Views&color=12&icon=5&pretty=false" alt="views" height="24" />
 </p>
 
+#### Background
+I started my 'tech' journey as a Computer Science student where I learned AI and Development. I accidentally stumbled upon 'UI/UX' during a hackathon. I like code but this felt different, so I went heads down into design.
 
+As a design outsider, being technical helped me be a better designer and team mate. <wbr> I could be technical with devs and help them with frontend code occasionally. (Usually in the form of providing code snippets)
+
+
+```
+If you're a developer who needs design help, feel free to drop a message.
+```
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white" />
+</p>
+
+
+> “When you’re a carpenter making a beautiful chest of drawers, you’re not going to use a piece of plywood on the back, even though it faces the wall and nobody will ever see it. You’ll know it’s there, so you’re going to use a beautiful piece of wood on the back. For you to sleep well at night, the aesthetic, the quality, has to be carried all the way through.”
+
+― Steve Jobs
+
+<!-- Tools n Tech -->
+<!--
 <h4 align="center"> Design tools of trade</h4>
 <p align="center">
  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='32' height='32' fill='%23208561' viewBox='0 0 256 256'%3E%3Cpath d='M192,96a40,40,0,0,0-24-72H96A40,40,0,0,0,72,96a40,40,0,0,0,1.37,65A44,44,0,1,0,144,196V160a40,40,0,1,0,48-64Zm0-32a24,24,0,0,1-24,24H144V40h24A24,24,0,0,1,192,64ZM72,64A24,24,0,0,1,96,40h32V88H96A24,24,0,0,1,72,64Zm24,88a24,24,0,0,1,0-48h32v48H96Zm32,44a28,28,0,1,1-28-28h28Zm40-44a24,24,0,1,1,24-24A24,24,0,0,1,168,152Z'/%3E%3C/svg%3E" height="32" alt="Figma and Figjam" /> 
@@ -38,25 +58,12 @@
   <img src=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0iIzE1YjI4MyIgdmlld0JveD0iMCAwIDI1NiAyNTYiPjxwYXRoIGQ9Ik0yMTMuNjYsODIuMzRsLTU2LTU2QTgsOCwwLDAsMCwxNTIsMjRINTZBMTYsMTYsMCwwLDAsNDAsNDB2NzJhOCw4LDAsMCwwLDE2LDBWNDBoODhWODhhOCw4LDAsMCwwLDgsOGg0OFYyMTZIMTY4YTgsOCwwLDAsMCwwLDE2aDMyYTE2LDE2LDAsMCwwLDE2LTE2Vjg4QTgsOCwwLDAsMCwyMTMuNjYsODIuMzRaTTE2MCw1MS4zMSwxODguNjksODBIMTYwWk02NCwxNDRINDhhOCw4LDAsMCwwLTgsOHY1NmE4LDgsMCwwLDAsMTYsMHYtOGg4YTI4LDI4LDAsMCwwLDAtNTZabTAsNDBINTZWMTYwaDhhMTIsMTIsMCwwLDEsMCwyNFptOTAuNzgtMjcuNzYtMTguNzgsMzBWMjA4YTgsOCwwLDAsMS0xNiwwVjE4Ni4yOWwtMTguNzgtMzBhOCw4LDAsMSwxLDEzLjU2LTguNDhMMTI4LDE2OC45MWwxMy4yMi0yMS4xNWE4LDgsMCwxLDEsMTMuNTYsOC40OFoiPjwvcGF0aD48L3N2Zz4= height="32" alt="Python" />
 </p>
 
+-->
 
 <!-- Icons for tools from Phosphor Icons -->
 
 
 
-#### Background
-I started my 'tech' journey as a Computer Science student where I learned AI and Development. I accidently stumbled upon 'UI/UX' during a hackathon. I like code but this felt different, so I went heads down into design.
-
-As a design outsider, being technical actually helped me be a better designer and team mate. <wbr> I could be technical with devs and help them with frontend code from time to time. (Usually in form of providing code snippets)
-
-
-```
-If you're a developer who needs design help, feel free to drop a message.
-```
-
-
-> “When you’re a carpenter making a beautiful chest of drawers, you’re not going to use a piece of plywood on the back, even though it faces the wall and nobody will ever see it. You’ll know it’s there, so you’re going to use a beautiful piece of wood on the back. For you to sleep well at night, the aesthetic, the quality, has to be carried all the way through.”
-
-― Steve Jobs
 
 
 <!--
