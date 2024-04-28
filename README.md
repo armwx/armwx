@@ -17,15 +17,24 @@
   <img src="https://visitcount.itsvg.in/api?id=armwx&label=Views&color=12&icon=5&pretty=false" alt="views" height="24" />
 </p>
 
-<!-- Badges -->
+<!-- Design Badges -->
+<h4 align="center"> Design tools of trade </h4>
 <p align="center">
-  <img align="center" width="32" src="https://github.com/armwx/armwx/assets/32905298/5ae17ac2-de9f-4bd1-a3c6-26d85e5d2e58" alt="Figma and Figma"/>
+  <img align="center" width="32" src="https://github.com/armwx/armwx/assets/32905298/5ae17ac2-de9f-4bd1-a3c6-26d85e5d2e58" alt="Figma and Figjam"/>
   <img align="center" width="32" src="https://github.com/armwx/armwx/assets/32905298/f992a4db-39ca-4527-a85a-4fcfef03b29d" alt="Framer"/>
   <img align="center" width="32" src="https://github.com/armwx/armwx/assets/32905298/6dc7ad20-c82d-41ba-a1de-e0df81515e41" alt="Pen n Paper"/>
   <img align="center" width="32" src="https://github.com/armwx/armwx/assets/32905298/7a7b8bda-860b-4f4a-a72e-0f819dde3295" alt="Notion"/>
   <img align="center" width="32" src="https://github.com/armwx/armwx/assets/32905298/d13d2258-cd23-468f-8fae-d988e8b2255f" alt="OpenAI + more"/>
   <img align="center" width="32" src="https://github.com/armwx/armwx/assets/32905298/1d9a7003-fc8b-47ca-931c-ccb43cd124a7" alt="Code Blocks"/>
 </p>
+
+<!-- Code Badges -->
+<h4 align="center"> Shipping average code with </h4>
+<p align="center">
+  <img align="center" width="32" src="https://github.com/armwx/armwx/assets/32905298/8fddc0ff-144a-47ee-952f-22fe293dd95d" alt="HTML"/>
+  <img align="center" width="32" src="https://github.com/armwx/armwx/assets/32905298/1342e569-383f-4494-9f55-bfc038dc4449" alt="CSS"/>
+  <img align="center" width="32" src="https://github.com/armwx/armwx/assets/32905298/ec713bd6-076f-4d89-a708-f60c4505722a" alt="JS"/>
+  <img align="center" width="32" src="https://github.com/armwx/armwx/assets/32905298/74694ab7-f7eb-46a3-83c1-c59398502467" alt="Notion"/> </p>
 
 #### Background
 I started my 'tech' journey as a Computer Science student where I learned AI and Development. I accidentally stumbled upon 'UI/UX' during a hackathon. I like code but this felt different, so I went heads down into design.
@@ -43,18 +52,6 @@ If you're a developer who needs design help, feel free to drop a message.
 
 ― Steve Jobs
 
-<!-- Tools n Tech -->
-<!--
-<h4 align="center"> Design tools of trade</h4>
-<p align="center">
- <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='32' height='32' fill='%23208561' viewBox='0 0 256 256'%3E%3Cpath d='M192,96a40,40,0,0,0-24-72H96A40,40,0,0,0,72,96a40,40,0,0,0,1.37,65A44,44,0,1,0,144,196V160a40,40,0,1,0,48-64Zm0-32a24,24,0,0,1-24,24H144V40h24A24,24,0,0,1,192,64ZM72,64A24,24,0,0,1,96,40h32V88H96A24,24,0,0,1,72,64Zm24,88a24,24,0,0,1,0-48h32v48H96Zm32,44a28,28,0,1,1-28-28h28Zm40-44a24,24,0,1,1,24-24A24,24,0,0,1,168,152Z'/%3E%3C/svg%3E" height="32" alt="Figma and Figjam" /> 
-  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='32' height='32' fill='%23208561' viewBox='0 0 256 256'%3E%3Cpath d='M208,104V40a8,8,0,0,0-8-8H56a8,8,0,0,0-5.31,14L107,96H56a8,8,0,0,0-8,8v64a8,8,0,0,0,2.34,5.66l72,72A8,8,0,0,0,136,240V176h64a8,8,0,0,0,5.31-14L149,112h51A8,8,0,0,0,208,104Zm-29,56H128a8,8,0,0,0-8,8v52.69l-56-56V112h61Zm13-64H131L77,48H192Z'/%3E%3C/svg%3E" height="32" alt="Framer" />
-  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='32' height='32' fill='%23208561' viewBox='0 0 256 256'%3E%3Cpath d='M229.66,58.34l-32-32a8,8,0,0,0-11.32,0l-96,96A8,8,0,0,0,88,128v32a8,8,0,0,0,8,8h32a8,8,0,0,0,5.66-2.34l96-96A8,8,0,0,0,229.66,58.34ZM124.69,152H104V131.31l64-64L188.69,88ZM200,76.69,179.31,56,192,43.31,212.69,64ZM224,128v80a16,16,0,0,1-16,16H48a16,16,0,0,1-16-16V48A16,16,0,0,1,48,32h80a8,8,0,0,1,0,16H48V208H208V128a8,8,0,0,1,16,0Z'/%3E%3C/svg%3E" height="32" alt="Pen and Paper" />
-
-  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='32' height='32' fill='%23208561' viewBox='0 0 256 256'%3E%3Cpath d='M216,40H168a8,8,0,0,0,0,16h16V176.85L111,44.14A8,8,0,0,0,104,40H40a8,8,0,0,0,0,16H56V200H40a8,8,0,0,0,0,16H88a8,8,0,0,0,0-16H72V79.15l73,132.71a8,8,0,0,0,7,4.14h40a8,8,0,0,0,8-8V56h16a8,8,0,0,0,0-16ZM77.53,56H99.27l79.2,144H156.73Z'/%3E%3C/svg%3E" height="32" alt="Notion" /> 
-  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='32' height='32' fill='%23208561' viewBox='0 0 256 256'%3E%3Cpath d='M224.32,114.24a56,56,0,0,0-60.07-76.57A56,56,0,0,0,67.93,51.44a56,56,0,0,0-36.25,90.32A56,56,0,0,0,69,217,56.39,56.39,0,0,0,83.59,219a55.75,55.75,0,0,0,8.17-.61,56,56,0,0,0,96.31-13.78,56,56,0,0,0,36.25-90.32ZM182.85,54.43a40,40,0,0,1,28.56,48c-.95-.63-1.91-1.24-2.91-1.81L164,74.88a8,8,0,0,0-8,0l-44,25.41V81.81l40.5-23.38A39.76,39.76,0,0,1,182.85,54.43ZM144,137.24l-16,9.24-16-9.24V118.76l16-9.24,16,9.24ZM80,72a40,40,0,0,1,67.53-29c-1,.51-2,1-3,1.62L100,70.27a8,8,0,0,0-4,6.92V128l-16-9.24ZM40.86,86.93A39.75,39.75,0,0,1,64.12,68.57C64.05,69.71,64,70.85,64,72v51.38a8,8,0,0,0,4,6.93l44,25.4L96,165,55.5,141.57A40,40,0,0,1,40.86,86.93ZM73.15,201.57a40,40,0,0,1-28.56-48c.95.63,1.91,1.24,2.91,1.81L92,181.12a8,8,0,0,0,8,0l44-25.41v18.48l-40.5,23.38A39.76,39.76,0,0,1,73.15,201.57ZM176,184a40,40,0,0,1-67.52,29.05c1-.51,2-1.05,3-1.63L156,185.73a8,8,0,0,0,4-6.92V128l16,9.24Zm39.14-14.93a39.75,39.75,0,0,1-23.26,18.36c.07-1.14.12-2.28.12-3.43V132.62a8,8,0,0,0-4-6.93l-44-25.4,16-9.24,40.5,23.38A40,40,0,0,1,215.14,169.07Z'/%3E%3C/svg%3E" height="32" alt="AI" />
-  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='32' height='32' fill='%23208561' viewBox='0 0 256 256'%3E%3Cpath d='M58.34,101.66l-32-32a8,8,0,0,1,0-11.32l32-32A8,8,0,0,1,69.66,37.66L43.31,64,69.66,90.34a8,8,0,0,1-11.32,11.32Zm40,0a8,8,0,0,0,11.32,0l32-32a8,8,0,0,0,0-11.32l-32-32A8,8,0,0,0,98.34,37.66L124.69,64,98.34,90.34A8,8,0,0,0,98.34,101.66ZM200,40H176a8,8,0,0,0,0,16h24V200H56V136a8,8,0,0,0-16,0v64a16,16,0,0,0,16,16H200a16,16,0,0,0,16-16V56A16,16,0,0,0,200,40Z'/%3E%3C/svg%3E" height="32" alt="Code blocks" />
-</p>
 
 <h4 align="center"> Average Codes in</h4>
 
