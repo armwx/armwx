@@ -28,6 +28,8 @@ If you're a developer who needs design help, feel free to drop a message.
 ```
 <!-- Badges -->
 <p align="center">
+  ![image](https://github.com/armwx/armwx/assets/32905298/23283b89-373d-45c1-bfa6-d7e701d76b45)
+
   <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white" />
 </p>
 
