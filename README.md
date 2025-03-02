@@ -9,14 +9,6 @@
   <p align="center">
   <a href="https://adilrehman.com" target="_blank"><img src="https://img.shields.io/badge/Visit%20My%20Website-adilrehman.com-33d29a?style=for-the-badge&logo=figma" alt="View Portfolio"></a> </P>
 
-  
-  <!-- Badges -->
-<p align="center">
-  <img src="https://img.shields.io/github/last-commit/armwx/armwx?style=flat" height="24" />
-  <img src="https://img.shields.io/github/created-at/armwx/armwx" height="24" /> 
-  <img src="https://visitcount.itsvg.in/api?id=armwx&label=Views&color=12&icon=5&pretty=false" alt="views" height="24" />
-</p>
-
 <!-- Design Badges -->
 <h4 align="center"> Design tools of trade </h4>
 <p align="center">
