@@ -7,7 +7,7 @@
   
   
   <p align="center">
-  <a href="https://adilrehman.com" target="_blank"><img src="https://img.shields.io/badge/Visit%20My%20Website-adilrehman.com-33d29a?style=for-the-badge&logo=figma" alt="View Portfolio"></a> </P>
+  <a href="[https://adilrehman.com](http://www.adilrehman.com/?utm_source=git&utm_campaign=github)" target="_blank"><img src="https://img.shields.io/badge/Visit%20My%20Website-adilrehman.com-33d29a?style=for-the-badge&logo=figma" alt="View Portfolio"></a> </P>
 
 <!-- Design Badges -->
 <h4 align="center"> Design tools of trade </h4>
