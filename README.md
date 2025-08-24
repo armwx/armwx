@@ -3,9 +3,6 @@
   <h2 align="center"> Adil Rehman</h2>
   <h3 align="center">Product Designer who dabbles in code and growth. </h3>
   
-  
-  
-  
   <p align="center">
   <a href="https://www.adilrehman.com/?utm_source=git&utm_campaign=github" target="_blank"><img src="https://img.shields.io/badge/Visit%20My%20Website-adilrehman.com-33d29a?style=for-the-badge&logo=figma" alt="View Portfolio"></a> </P>
 
@@ -28,10 +25,6 @@
   <img style="pointer-events: none;" align="center" width="32" src="https://github.com/armwx/armwx/assets/32905298/ec713bd6-076f-4d89-a708-f60c4505722a" alt="JS"/>
   <img style="pointer-events: none;" align="center" width="32" src="https://github.com/armwx/armwx/assets/32905298/74694ab7-f7eb-46a3-83c1-c59398502467" alt="Notion"/> </p>
 
-#### Background
-I started my 'tech' journey as a Computer Science student where I learned AI and Development. I accidentally stumbled upon 'UI/UX' during a hackathon. I like code but this felt different, so I went heads down into design.
-
-As a design outsider, being technical helped me be a better designer and team mate. <wbr> I could be technical with devs and help them with frontend code occasionally. (Usually in the form of providing code snippets)
 
 
 > “When you’re a carpenter making a beautiful chest of drawers, you’re not going to use a piece of plywood on the back, even though it faces the wall and nobody will ever see it. You’ll know it’s there, so you’re going to use a beautiful piece of wood on the back. For you to sleep well at night, the aesthetic, the quality, has to be carried all the way through.”
